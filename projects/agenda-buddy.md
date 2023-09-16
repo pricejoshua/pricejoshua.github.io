@@ -10,4 +10,4 @@ Agenda Buddy was an app created in my sophmore level software development class.
 [View frontend on GitHub](https://github.com/tjkwilliams/AgendaBuddy)
 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+{% include image.html image="projects/proj-2/stretch.jpg" %}
