@@ -11,7 +11,6 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
 - {name: 'Agenda Buddy', url: 'agenda-buddy'}
 - {name: 'Wheaton Class Scheduler', url: 'wheaton-class-scheduler'}
 - {name: 'Zion', url: 'zion'}
