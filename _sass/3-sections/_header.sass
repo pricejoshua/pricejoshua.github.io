@@ -9,24 +9,23 @@ header
     a
       transition: all 0.2s ease-in-out
       display: inline-block
-      color: rgba(0,0,0,1)
+      color: $accent
       &:hover
-        color: $accent-color
-        opacity: 0.5
+        color: $accent-hover
   nav
     float: right
     margin: 30px 30px 0 0
     a
+      border-bottom: 2px solid
       transition: all 0.2s ease-in-out
       display: inline-block
       margin-left: 20px
-      color: rgba(0,0,0,1)
+      color: $accent
       font:
         size: 24px
         weight: 700
       &:hover
-        color: $accent-color
-        opacity: 0.5
+        color: $accent-hover
 
 @media (max-width: 768px)
   header
